@@ -50,7 +50,7 @@ def tweetthis(type):
             print(e)
             return
 
-    print("\n\nDONE!!")
+    print("\n\n SO DONE!!")
 
 
 def initialize():
